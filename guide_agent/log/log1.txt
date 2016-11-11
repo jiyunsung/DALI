@@ -1,0 +1,1107 @@
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|d|d|1
+Guide Agent Status Update: GA_STATUS|0|1208|d|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|d|d|1
+Guide Agent Status Update: GA_STATUS|0|1208|d|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|d|b|1
+Guide Agent Status Update: GA_STATUS|0|1208|d|b|1
+Guide Agent Status Update: GA_STATUS|0|1208|d|b|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|d|d|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|d|f|1
+Guide Agent Status Update: GA_STATUS|0|1208|d|f|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|d|fd|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Invalid pebble ID!
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Invalid pebble ID!
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+1 more neutralized code drops
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+2 more neutralized code drops
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+3 more neutralized code drops
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+1 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: 0
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 0
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: -1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: -2
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+1 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: 0
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: 3
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: 20
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+3 new players added
+2 more neutralized code drops
+Number of field agents: 5, number of remaining code drops: 18
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+2 new players added
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Invalid pebble ID!
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Sent hint to field agent Akira. Message: III
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+GAME OVER
+Number of remaining code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+1 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: 0
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+3 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: 19
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: 18
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+5 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: 18
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 more neutralized code drops
+Number of field agents: 2, number of remaining code drops: 17
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+2 new players added
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 2, number of remaining code drops: 23
+Sent hint to field agent Akira. Message: No one's communicated with you in a while
+GAME OVER
+Number of remaining code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+2 new players added
+Number of field agents: 2, number of remaining code drops: 23
+Invalid pebble ID!
+Invalid pebble ID!
+Sent hint to field agent Akira. Message: goiwheg
+GAME OVER
+Number of remaining code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS||1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|òõÜù–|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS||1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|Äc|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+2 new players added
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 2, number of remaining code drops: 23
+GAME OVER
+Number of remaining code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: f
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+3 more neutralized code drops
+Number of field agents: 3, number of remaining code drops: 21
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Number of field agents: 3, number of remaining code drops: 21
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+2 new players added
+3 more neutralized code drops
+Number of field agents: 3, number of remaining code drops: 21
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+3 more neutralized code drops
+Number of field agents: 3, number of remaining code drops: 21
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|fd|d|1
+Guide Agent Status Update: GA_STATUS|0|1208|fd|d|1
+Guide Agent Status Update: GA_STATUS|0|1208|fd|d|1
+2 new players added
+3 more neutralized code drops
+Number of field agents: 3, number of remaining code drops: 21
+Guide Agent Status Update: GA_STATUS|123|1208|fd|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|fd|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|3|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|3|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|3|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|3|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|3|df|1
+2 new players added
+3 more neutralized code drops
+Number of field agents: 3, number of remaining code drops: 21
+Guide Agent Status Update: GA_STATUS|123|1208|3|df|1
+Number of field agents: 3, number of remaining code drops: 21
+Guide Agent Status Update: GA_STATUS|123|1208|3|df|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|d|f|1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+4 new players added
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+1 more neutralized code drops
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|f|d|1
+Number of field agents: 5, number of remaining code drops: 23
+GAME OVER
+Number of remaining code drops: 1
+Team Name: Dartmouth
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: f
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+3 more neutralized code drops
+Number of field agents: 3, number of remaining code drops: 21
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Invalid pebble ID!
+Invalid pebble ID!
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|f|d|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+2 more neutralized code drops
+Number of field agents: 3, number of remaining code drops: 8
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 3, number of remaining code drops: 20
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 3, number of remaining code drops: 8
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+3 more neutralized code drops
+Number of field agents: 3, number of remaining code drops: 20
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 3, number of remaining code drops: 12
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 3, number of remaining code drops: 7
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 3, number of remaining code drops: 5
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 3, number of remaining code drops: 3
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 3, number of remaining code drops: 2
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 3, number of remaining code drops: 1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+GAME OVER
+Number of remaining code drops: 0
+Team Name: teamName
+number of players: 0
+number of Captures: 0
+number of captured players: 0
+number of neutralized code drops: 0
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|0|1208|f|df|1
+2 new players added
+3 more neutralized code drops
+Number of field agents: 3, number of remaining code drops: 21
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Guide Agent Status Update: GA_STATUS|123|1208|f|df|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 34659
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+2 new players added
+7 more neutralized code drops
+Number of field agents: 3, number of remaining code drops: 17
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+4 new players added
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+1 more neutralized code drops
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+GAME OVER
+Number of remaining code drops: 1
+Team Name: Dartmouth
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Invalid pebble ID!
+Invalid pebble ID!
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+4 new players added
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 24
+GAME OVER
+Number of remaining code drops: 1
+Team Name: Dartmouth
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+4 new players added
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+1 more neutralized code drops
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 5, number of remaining code drops: 23
+GAME OVER
+Number of remaining code drops: 1
+Team Name: Dartmouth
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|1208|Ruby|Jiyun|1
+1 new players added
+Number of field agents: 2, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 2, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 2, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|123|1208|Ruby|Jiyun|1
+1 less players
+Number of field agents: 2, number of remaining code drops: 24
+GAME OVER
+Number of remaining code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1

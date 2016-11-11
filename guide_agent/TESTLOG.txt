@@ -1,0 +1,218 @@
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Connected.
+Game ID = 2a23b9f7
+4 new players added
+Number of code drops changed!
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+GAME OVER
+Number of remaining code drops: 1
+Team Name: Dartmouth
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Game Start!
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Guide Agent Status Update: GA_STATUS|0|76931f|Ruby|Jiyun|1
+Connected.
+Game ID = 10e38d1f
+4 new players added
+field agents Pierce
+field agents Murphy
+field agents Uche
+field agents Kotz
+field agents playerName
+Number of code drops changed!
+Number of field agents: 5, number of remaining code drops: 24
+Type the pebble Id of the field agent you want to send a message to and press enter. If you want to send a message to all field agents in the team, just type * and press enter. 
+List of field agents:
+field agent Murphy, pebble ID Akira, latitude 43.703000000000
+field agent Uche, pebble ID Chinedum, latitude 43.703000000000
+Guide Agent Status Update: GA_STATUS|10e38d1f|76931f|Ruby|Jiyun|1
+New status update from game server:
+1 players captured
+field agents Pierce
+field agents Murphy
+field agents Uche
+field agents Kotz
+field agents playerName
+Number of field agents: 5, number of remaining code drops: 24
+Guide Agent Status Update: GA_STATUS|10e38d1f|76931f|Ruby|Jiyun|1
+New status update from game server:
+1 players captured
+field agents Pierce
+field agents Murphy
+field agents Uche
+field agents Kotz
+field agents playerName
+Number of field agents: 5, number of remaining code drops: 24
+GAME OVER
+Number of remaining code drops: 1
+Team Name: Dartmouth
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Game Start!
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Connected.
+Game ID = 55535b22
+No field agents!
+New status update from game server:
+No field agents!
+New status update from game server:
+No field agents!
+New status update from game server:
+No field agents!
+New status update from game server:
+No field agents!
+New status update from game server:
+No field agents!
+New status update from game server:
+4 new players added
+Number of code drops changed!
+Number of field agents: 5, number of remaining code drops: 24
+Type the pebble Id of the field agent you want to send a message to and press enter. If you want to send a message to all field agents in the team, just type * and press enter. 
+List of field agents:
+field agent Murphy, pebble ID Akira, latitude 43.703000000000
+field agent Uche, pebble ID Chinedum, latitude 43.703000000000
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+GAME OVER
+Number of remaining code drops: 1
+Team Name: Dartmouth
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Game Start!
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Game Start!
+Host: flume.cs.dartmouth.edu
+Port: 55304
+Connected.
+Game ID = c9b2079d
+4 new players added
+Number of code drops changed!
+Number of field agents: 5, number of remaining code drops: 24
+Type the pebble Id of the field agent you want to send a message to and press enter. If you want to send a message to all field agents in the team, just type * and press enter. 
+List of field agents:
+field agent Murphy, pebble ID Akira, latitude 43.703000000000
+field agent Uche, pebble ID Chinedum, latitude 43.703000000000
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+New status update from game server:
+1 players captured
+Number of field agents: 5, number of remaining code drops: 24
+GAME OVER
+Number of remaining code drops: 1
+Team Name: Dartmouth
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: teamName
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
+Team Name: Ruby
+number of players: 1
+number of Captures: 1
+number of captured players: 1
+number of neutralized code drops: 1
